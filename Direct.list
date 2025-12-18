@@ -6,11 +6,13 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,icloud.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,intel
+DOMAIN-KEYWORD,icloud
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
